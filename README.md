@@ -11,7 +11,8 @@
 + 5. Top 10 and Bottom 10 Fertility Rates by country ranking and geographic mapping.
 
 ## Methodology: 
-+ Demographic data for 234 countries worldwide was scraped from "https://www.worldometers.info/world-population/population-by-country/" for analysis. 
++ Demographic data for 234 countries worldwide was scraped from "https://www.worldometers.info/world-population/population-by-country/" for analysis.
++ The Python script named Python_project_script8.py has been created and utilized for data sourcing.
 + Each group of countries was mapped and integrated into the interactive dashboard.
 
 ## Conclusion
