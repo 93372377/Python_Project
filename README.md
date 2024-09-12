@@ -17,9 +17,13 @@
 + Demographic data for 234 countries worldwide was scraped from "https://www.worldometers.info/world-population/population-by-country/" for analysis.
 + GDP per country data for 189 countries was fetched from "www.imf.org/external/datamapper/api/v1/NGDP_RPCH?periods=2024" API adress.
 + Two datasets were combined based on the common countries in both data frames.
-+ The Python script named Project_Script_final19.py has been created and utilized for data sourcing.
-+ Each group of countries was mapped and integrated into the interactive dashboard.
-+ All the functions in both script and main files were tested by unit and performance tests in "Testing script file"
+  
+### Files:
++ The Python script named Data_Scrapping has been created and utilized for data sourcing.
++ In Main_script each group of countries was mapped and integrated into the interactive dashboard.
++ In Testing script all the functions in both script and main files were tested by unit and performance tests.
++ gdp_data.csv file contains GDP per country data for 189 countries that was fetched from "www.imf.org/external/datamapper/api/v1/NGDP_RPCH?periods=2024" API adress.
++ countries_data.csv file contains Demographic data for 234 countries worldwide that was scraped from "https://www.worldometers.info/world-population/population-by-country/".
 
 ## Conclusion
 + By exploring these different categories, users can gain a better understanding of the demographic distribution across different countries worldwide. 
