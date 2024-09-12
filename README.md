@@ -18,7 +18,7 @@
 + GDP per country data for 189 countries was fetched from "www.imf.org/external/datamapper/api/v1/NGDP_RPCH?periods=2024" API adress.
 + Two datasets were combined based on the common countries in both data frames.
   
-  #### Files:
+### Files:
 + The Python script named Data_Scrapping has been created and utilized for data sourcing.
 + In Main_script each group of countries was mapped and integrated into the interactive dashboard.
 + In Testing script all the functions in both script and main files were tested by unit and performance tests.
