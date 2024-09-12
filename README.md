@@ -24,6 +24,7 @@
 + In Testing script all the functions in both script and main files were tested by unit and performance tests.
 + gdp_data.csv file contains GDP per country data for 189 countries that was fetched from "www.imf.org/external/datamapper/api/v1/NGDP_RPCH?periods=2024" API adress.
 + countries_data.csv file contains Demographic data for 234 countries worldwide that was scraped from "https://www.worldometers.info/world-population/population-by-country/".
+  Data Scrapping: get the data --> Main script: call the data from Data Scrapping and analyse it --> Testing: call the functions from both Data Scrapping and Main Scripts and test them
 
 ## Conclusion
 + By exploring these different categories, users can gain a better understanding of the demographic distribution across different countries worldwide. 
